@@ -1,5 +1,5 @@
 .poster {
-  max-width: 200px;
+  width: 200px;
   transition: transform 450ms;
   margin-right: 10px;
 }
