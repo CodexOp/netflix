@@ -1,0 +1,153 @@
+*{
+    margin:0;
+}
+/*tab icon door*/
+
+.tab-icon-door{
+    width: 2.8125rem;
+    height:2.8125rem;
+    fill:var(--main-grey);
+}
+
+/*tab icon devices*/
+
+.tab-icon-devices{
+    width: 9.6875rem;
+    height:9.6875rem;
+    fill:var(--main-grey);
+}
+
+/*tab icon price*/
+
+.tab-icon-price{
+    width: 4.375rem;
+    height:4.375rem;
+    fill:var(--main-grey);
+}
+
+
+
+
+/* Tabs */
+
+.tabs{
+    padding-top: 1rem;
+}
+
+.tabs_nav_container{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    grid-template-columns: repeat(3, 1fr);
+    list-style: none;
+    grid-gap: 1rem;
+    color:var(--main-grey);
+    margin:0 12%;
+
+}
+
+.intro{
+    margin-bottom:10px;
+    }
+
+.middleScreen{
+    display: none;
+}
+
+
+/* Tabs nav hover*/
+
+ul li:hover{
+    color:white;
+    cursor:pointer;
+}
+
+ul li:hover svg path{
+    fill:white;
+    cursor:pointer;
+}
+
+.active{
+    color:white;
+    cursor:pointer;
+ 
+    cursor:pointer;
+    border-bottom:4px solid var(--main-red);
+    
+}
+
+.tab-selected svg path{
+       fill:white;
+}
+
+
+.react-tabs{
+margin:0;
+width: 100%;
+}
+
+/* media nav Tab 2*/
+
+@media (max-width:900px){
+    .tab-icon-door{
+        width:4rem;
+        height:2.4rem;
+    }
+
+
+
+.tab-icon-devices{
+    width:8rem;
+    height:8rem;
+}
+
+
+
+.tab-icon-price{
+    width:2.4rem;
+    height:2.4rem;
+}
+
+.middleScreen{
+    display: block;
+    margin-bottom:12px;
+}
+
+.intro{
+    display: none;
+   
+}
+.tabs_nav_container{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    grid-template-columns: repeat(3, 1fr);
+    list-style: none;
+    grid-gap: 2rem;
+    color:var(--main-grey);
+    margin:0 12%;
+
+}
+
+
+}
+
+
+@media (max-width:400px){
+    .tabs_nav_container{
+        grid-gap: 1rem;
+        margin:0%;
+    
+    }
+    .tab-icon-devices{
+        width:8rem;
+        height:8rem;
+    }
+    
+    
+
+}
+
+

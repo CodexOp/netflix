@@ -1,0 +1,32 @@
+.nav {
+  display: flex;
+  position: fixed;
+  top: 0;
+  height: 20px;
+  width: 100%;
+  padding: 15px;
+  justify-content: space-between;
+  z-index: 1;
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+}
+
+.logoo {
+  position: fixed;
+  left: 20px;
+  width: 80px;
+  height: auto;
+}
+
+.logoo2 {
+  position: fixed;
+  width: 25px;
+  height: auto;
+  right: 20px;
+}
+
+.nav_black {
+  background-color: #111;
+  z-index: 1000;
+  height: 55px;
+}
