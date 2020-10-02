@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/nteflix/static/css/main.a983c94d.chunk.css",
+    "main.js": "/nteflix/static/js/main.dfa26f76.chunk.js",
+    "main.js.map": "/nteflix/static/js/main.dfa26f76.chunk.js.map",
+    "runtime-main.js": "/nteflix/static/js/runtime-main.49c3cf04.js",
+    "runtime-main.js.map": "/nteflix/static/js/runtime-main.49c3cf04.js.map",
+    "static/js/2.746fd86a.chunk.js": "/nteflix/static/js/2.746fd86a.chunk.js",
+    "static/js/2.746fd86a.chunk.js.map": "/nteflix/static/js/2.746fd86a.chunk.js.map",
+    "index.html": "/nteflix/index.html",
+    "precache-manifest.54cca05f0bfb2fb8521652556e0f0dcb.js": "/nteflix/precache-manifest.54cca05f0bfb2fb8521652556e0f0dcb.js",
+    "service-worker.js": "/nteflix/service-worker.js",
+    "static/css/main.a983c94d.chunk.css.map": "/nteflix/static/css/main.a983c94d.chunk.css.map",
+    "static/js/2.746fd86a.chunk.js.LICENSE.txt": "/nteflix/static/js/2.746fd86a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/nteflix/static/media/bg.dc2411c9.jpg",
+    "static/media/logo.svg": "/nteflix/static/media/logo.35f3a5ae.svg",
+    "static/media/tab-1-pic.png": "/nteflix/static/media/tab-1-pic.fab25bc3.png",
+    "static/media/tab-macbook.png": "/nteflix/static/media/tab-macbook.66c7c1fb.png",
+    "static/media/tab-tablet.png": "/nteflix/static/media/tab-tablet.dc986d81.png",
+    "static/media/tab-tv.png": "/nteflix/static/media/tab-tv.9f91203b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49c3cf04.js",
+    "static/js/2.746fd86a.chunk.js",
+    "static/css/main.a983c94d.chunk.css",
+    "static/js/main.dfa26f76.chunk.js"
+  ]
+}
