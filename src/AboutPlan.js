@@ -29,7 +29,7 @@ const AboutPlan = () => {
               Unlimited viewing on all yours devices.
             </div>
           </div>
-          <Link to="./">
+          <Link to="./netflix">
             <Button className="but">See The Plans </Button>
           </Link>
         </div>
