@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/netflix/precache-manifest.d754d40bd16401d25a2621a37327bc49.js"
+  "/netflix/precache-manifest.552d7cd8a0654ab13f97b19134434215.js"
 );
 
 self.addEventListener('message', (event) => {
